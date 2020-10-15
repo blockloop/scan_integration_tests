@@ -1,0 +1,19 @@
+# github.com/Masterminds/squirrel v1.4.0
+github.com/Masterminds/squirrel
+# github.com/blockloop/scan v1.3.0
+github.com/blockloop/scan
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/lann/builder v0.0.0-20180802200727-47ae307949d0
+github.com/lann/builder
+# github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0
+github.com/lann/ps
+# github.com/mattn/go-sqlite3 v2.0.3+incompatible
+github.com/mattn/go-sqlite3
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.6.1
+github.com/stretchr/testify/assert
+github.com/stretchr/testify/require
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
